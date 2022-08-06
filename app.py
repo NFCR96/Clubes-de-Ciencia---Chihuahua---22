@@ -68,7 +68,7 @@ st.image(image14)
 st.write('')
 st.write('')
 
-if my_page = st.sidebar.radio ("Referencias bibliográficas")
-st.write('Emiliano, Ana, Eduardo, Ale')
+st.header("Videos cortos")
+st.markdown("[Section 1](#section-1)", unsafe_allow_html=True)
 
 
