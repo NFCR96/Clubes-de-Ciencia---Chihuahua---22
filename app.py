@@ -69,6 +69,6 @@ st.write('')
 st.write('')
 
 st.header("Videos cortos")
-st.markdown("[Tik-Tok](#section-1)", unsafe_allow_html=True)
+st.markdown("[Tik-Tok](#section-1)", https://www.tiktok.com/@bioinformaticsclub=True)
 
 
