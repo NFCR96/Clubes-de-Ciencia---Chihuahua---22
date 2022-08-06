@@ -67,3 +67,8 @@ st.write('')
 st.image(image14)
 st.write('')
 st.write('')
+
+if my_page = st.sidebar.radio("Página de navegación", ["Referencias bibliográficas"])
+st.write('Emiliano, Ana, Eduardo, Ale')
+
+
